@@ -1,18 +1,40 @@
 
-      
+
         h1{
             text-align: center;
             font-family: Georgia, 'Times New Roman', Times, serif;
-            color: rgb(17, 199, 199);
-            background-color: azure;
+            /* color: rgb(17, 199, 199);
+            background-color: azure; */
             margin: 20px ;
             padding: 15px;
             border-radius: 10px;
+            text-decoration: underline;
         }
 
         .aesehi{
             text-align: center;
             margin-top: 16px;
         }
-       
-    
+
+        body {
+            padding: 25px;
+            background-color: white;
+            color: black;
+            font-size: 25px;
+          }
+
+        .dark-mode {
+            background-color: #192734;
+            color: white;
+          }
+
+        h1 button {
+          margin-left: 200px;
+          height: 20px;
+          width: 20px;
+          text-decoration: none;
+          font-size: 30px;
+          padding: 0;
+          border: none;
+          background: none;
+        }
